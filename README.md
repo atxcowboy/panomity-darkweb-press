@@ -1,12 +1,12 @@
 ## Panomity DarkWeb Press
-Contributors: Sascha Endlicher, M.A.
-Donate link: https://www.panomity.com/
-Tags: cache, performance
-Requires at least: 6.1
-Tested up to: 6.1
-Stable tag: 8.1
-License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+
+- Contributors: Sascha Endlicher, M.A.
+- Tags: security, darkweb, dark web, cyber security, data security, password, domain, email, leaks
+- Requires at least: 6.1
+- Tested up to: 6.1
+- Stable tag: 8.1
+- License: GPLv3
+- License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Panomity DarkWeb Press Foundation for DarkWeb Connectivity.
 
@@ -41,8 +41,11 @@ If you forgot your Panomity credentials you may [reset them](https://support.pan
 
 
 5. Place one of the following three shortcodes anywhere on your site or use one of the Panomity DarkWeb Press Gutenberg Block Editor plugins.
+- Password Check:
 `[panomity_darkweb_press type="password"]`
+- Domain Check:
 `[panomity_darkweb_press type="domain"]` 
+- Email Check:
 `[panomity_darkweb_press type="email"]` 
 
 6. Optionally you may want to consider to register for our [free affiliate program](https://support.panomity.com/affiliates/)
