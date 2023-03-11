@@ -1,4 +1,5 @@
 ## Panomity DarkWeb Press
+
 Contributors: Sascha Endlicher, M.A.
 Donate link: https://www.panomity.com/
 Tags: cache, performance
@@ -41,8 +42,11 @@ If you forgot your Panomity credentials you may [reset them](https://support.pan
 
 
 5. Place one of the following three shortcodes anywhere on your site or use one of the Panomity DarkWeb Press Gutenberg Block Editor plugins.
+- Password Check:
 `[panomity_darkweb_press type="password"]`
+- Domain Check:
 `[panomity_darkweb_press type="domain"]` 
+- Email Check:
 `[panomity_darkweb_press type="email"]` 
 
 6. Optionally you may want to consider to register for our [free affiliate program](https://support.panomity.com/affiliates/)
