@@ -1,13 +1,13 @@
 ## Panomity DarkWeb Press
 
-Contributors: Sascha Endlicher, M.A.
-Donate link: https://www.panomity.com/
-Tags: cache, performance
-Requires at least: 6.1
-Tested up to: 6.1
-Stable tag: 8.1
-License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+- Contributors: Sascha Endlicher, M.A.
+- Donate link: https://www.panomity.com/
+- Tags: security, darkweb, dark web, cyber security, data security, password, domain, email, leaks
+- Requires at least: 6.1
+- Tested up to: 6.1
+- Stable tag: 8.1
+- License: GPLv3
+- License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Panomity DarkWeb Press Foundation for DarkWeb Connectivity.
 
