@@ -1,0 +1,450 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-03-11 16:48+0100\n"
+"PO-Revision-Date: 2023-03-11 16:49+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _;e;esc_html_e;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-panomity-darkweb-press-admin.php:351
+#: admin/class-panomity-darkweb-press-admin.php:362
+#: admin/class-panomity-darkweb-press-admin.php:373
+msgid "Panomity DarkWeb Press for"
+msgstr "Panomity DarkWeb Press für"
+
+#: admin/class-panomity-darkweb-press-admin.php:353
+msgid "Leaks is licensed. Use the shortcode"
+msgstr "Leaks ist lizenziert. Verwenden Sie den Shortcode"
+
+#: admin/class-panomity-darkweb-press-admin.php:354
+msgid "to add it anywhere on your site."
+msgstr "um es an beliebiger Stelle auf Ihrer Website hinzuzufügen."
+
+#: admin/class-panomity-darkweb-press-admin.php:356
+msgid "to add it anywhere on your site"
+msgstr "um es an beliebiger Stelle auf Ihrer Website hinzuzufügen"
+
+#: admin/class-panomity-darkweb-press-admin.php:375
+msgid "Leaks"
+msgstr "Lecks"
+
+#: admin/class-panomity-darkweb-press-admin.php:376
+msgid "This feature allows your users to search for"
+msgstr "Mit diesem Feature können Ihre Benutzer nach"
+
+#: admin/class-panomity-darkweb-press-admin.php:377
+msgid "related data breaches. To access Panomity DarkWeb Press for"
+msgstr "zusammenhängende Datenlecks suchen. Um auf Panomity DarkWeb Press für zuzugreifen"
+
+#: admin/class-panomity-darkweb-press-admin.php:378
+msgid "Please register for our free product. Click"
+msgstr "Bitte registrieren Sie sich für unser kostenloses Produkt. Klicken Sie auf"
+
+#: admin/class-panomity-darkweb-press-admin.php:380
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:199
+msgid "HERE"
+msgstr "HIER"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:16
+msgid "Dark Web Check Notification"
+msgstr "Benachrichtigung über Dark-Web-Prüfung"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:17
+#, php-format
+msgid "Hello %s,"
+msgstr "Hallo %s,"
+
+msgid ""
+"This is to notify you that %s (%s) has triggered a dark web check on your "
+"behalf. You should receive an email soon from Panomity GmbH containing a "
+"link to a page where you can view the results."
+msgstr ""
+"Das ist eine Benachrichtigung, dass %s (%s) im Auftrag von Ihnen eine Prüfung des Dark Webs ausgelöst hat. Sie sollten bald eine E-Mail von Panomity GmbH mit einem Link zu einer Seite erhalten, auf der Sie die Ergebnisse einsehen können."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:19
+msgid ""
+"Please be advised that email addresses provided for the check will be "
+"automatically deleted from Panomity's database after 30 days."
+msgstr ""
+"Bitte beachten Sie, dass die für den Check bereitgestellten E-Mail-Adressen nach 30 Tagen automatisch aus der Datenbank von Panomity gelöscht werden."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:20
+msgid "Thank you,"
+msgstr "Danke,"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:85
+msgid ""
+"Before proceeding, please note that by submitting this form, you declare "
+"that you have the authorization to share the provided email addresses with "
+"Panomity GmbH for a dark web check.\n\nPlease be advised that upon "
+"submission, an email notification will be sent from this server to inform "
+"your user that the check has been triggered. Following this, Panomity will "
+"send an email containing a link to a page where the user can view the "
+"results. Please note that email addresses provided for the check will be "
+"automatically deleted from Panomity's database after 30 days."
+msgstr ""
+"Bevor Sie fortfahren, beachten Sie bitte, dass Sie durch Absenden dieses Formulars erklären, dass Sie die Erlaubnis haben, die bereitgestellten E-Mail-Adressen mit Panomity GmbH für einen Dark Web Check zu teilen.\n\nBitte beachten Sie, dass nach dem Absenden eine E-Mail-Benachrichtigung von diesem Server gesendet wird, um Ihren Benutzer darüber zu informieren, dass der Check ausgelöst wurde. Anschließend sendet Panomity eine E-Mail mit einem Link zu einer Seite, auf der der Benutzer die Ergebnisse anzeigen kann. Bitte beachten Sie, dass die für den Check bereitgestellten E-Mail-Adressen nach 30 Tagen automatisch aus der Datenbank von Panomity gelöscht werden."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:113
+#, php-format
+msgid "Message sent to %s."
+msgstr "Nachricht an %s gesendet."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:117
+msgid "Please select at least one email."
+msgstr "Bitte wählen Sie mindestens eine E-Mail-Adresse aus."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:146
+msgid "Email List"
+msgstr "E-Mail-Liste"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:148
+msgid "Bulk Email Check"
+msgstr "Bulk-E-Mail-Check"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:151
+msgid ""
+"This page displays a list of all email addresses registered with your "
+"website. You can use this tool to check for data breaches. However, please "
+"ensure that you have notified and obtained authorization from your users "
+"before checking their email addresses."
+msgstr ""
+"Diese Seite zeigt eine Liste aller E-Mail-Adressen, die auf Ihrer Website "
+"registriert sind. Sie können dieses Tool verwenden, um nach Datenverletzungen "
+"zu suchen. Bitte stellen Sie jedoch sicher, dass Sie Ihre Benutzer benachrichtigt "
+"und ihre Zustimmung eingeholt haben, bevor Sie ihre E-Mail-Adressen überprüfen."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:154
+msgid ""
+"To perform bulk actions, select the email addresses you want to take action "
+"on and choose the corresponding action from the 'Bulk Actions' dropdown. "
+"Then, click on the 'Apply' button to execute the action."
+msgstr ""
+"Um Massenaktionen durchzuführen, wählen Sie die E-Mail-Adressen aus, auf die Sie "
+"reagieren möchten, und wählen Sie die entsprechende Aktion aus dem Dropdown-Menü 'Massenaktionen' aus. "
+"Klicken Sie dann auf die Schaltfläche 'Anwenden', um die Aktion auszuführen."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:159
+msgid ""
+"You can also search for specific email addresses using the search box "
+"located above the email list. Additionally, you can navigate through "
+"different pages of the email list using the pagination links at the bottom "
+"of the page."
+msgstr ""
+"Sie können auch nach bestimmten E-Mail-Adressen suchen, indem Sie das Suchfeld "
+"über der E-Mail-Liste verwenden. Darüber hinaus können Sie durch die verschiedenen "
+"Seiten der E-Mail-Liste navigieren, indem Sie die Seitenzahlen am unteren Ende "
+"der Seite verwenden."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:162
+msgid ""
+"Once you check an email for a data breach, Panomity GmbH will send an email "
+"from no.reply@panomity.com to the email address with a link so that the "
+"account holder can check if their email address has been breached on the "
+"dark web."
+msgstr ""
+"Sobald Sie eine E-Mail auf Datenverletzungen überprüfen, sendet Panomity GmbH eine E-Mail "
+"von no.reply@panomity.com an die E-Mail-Adresse mit einem Link, damit der Kontoinhaber "
+"überprüfen kann, ob seine E-Mail-Adresse im Dark Web verletzt wurde."
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:168
+msgid "Search Email List"
+msgstr "E-Mail-Liste durchsuchen"
+
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:179
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:196
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:172
+#: includes/class-panomity-darkweb-press-custom-widgets.php:52
+msgid "Email"
+msgstr "E-Mail"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:203
+msgid "Bulk Actions"
+msgstr "Massenaktionen"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:204
+msgid "Check for Data Breaches"
+msgstr "Nach Datenverletzungen suchen"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:212
+msgid "« Previous"
+msgstr "« Vorherige"
+
+#: admin/partials/panomity-darkweb-press-admin-bulk-check-emails-display.php:213
+msgid "Next »"
+msgstr "» Nächste"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:44
+#: admin/partials/panomity-darkweb-press-admin-display.php:45
+#: admin/partials/panomity-darkweb-press-admin-display.php:82
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:37
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:38
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:75
+msgid "Panomity DarkWeb Press"
+msgstr "Panomity DarkWeb Press"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:83
+msgid "Panomity Settings"
+msgstr "Panomity Einstellungen"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:87
+msgid "Activated! Your Panomity account is valid."
+msgstr "Aktiviert! Ihr Panomity-Konto ist gültig."
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:94
+msgid ""
+"No support.panomity.com account has been provided yet or the provided "
+"account is invalid."
+msgstr ""
+"Noch kein support.panomity.com-Konto wurde bereitgestellt oder das bereitgestellte "
+"Konto ist ungültig."
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:98
+msgid ""
+"Enter your Panomity username and password to access the features of your "
+"licensed products."
+msgstr ""
+"Geben Sie Ihren Panomity Benutzernamen und Passwort ein, um auf die Funktionen "
+"Ihrer lizenzierten Produkte zuzugreifen."
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:108
+msgid "Panomity Username"
+msgstr "Panomity Benutzername"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:114
+msgid "Enter your support.panomity.com username here"
+msgstr "Geben Sie hier Ihren support.panomity.com Benutzernamen ein"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:121
+msgid "Panomity Password"
+msgstr "Panomity Passwort"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:126
+msgid "Enter your support.panomity.com password here to update"
+msgstr "Geben Sie hier Ihr support.panomity.com Passwort ein, um es zu aktualisieren"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:130
+msgid "Enter your support.panomity.com password here"
+msgstr "Geben Sie hier Ihr support.panomity.com Passwort ein"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:148
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:79
+#, php-format
+msgid ""
+"For more information about Panomity DarkWeb Press, please visit our <a "
+"href='%1$s' target='_blank'><strong>official product page</strong></a>. "
+"If you have additional questions, please open a <a href='%2$s' "
+"target='_blank'><strong>support request</strong></a>."
+msgstr ""
+"Weitere Informationen zu Panomity DarkWeb Press finden Sie auf unserer <a "
+"href='%1$s' target='_blank'><strong>offiziellen Produktseite</strong></a>. "
+"Wenn Sie weitere Fragen haben, öffnen Sie bitte eine <a href='%2$s' "
+"target='_blank'><strong>Supportanfrage</strong></a>."
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:173
+msgid "Panomity Token"
+msgstr "Panomity Token"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:181
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:210
+msgid "Show Debug Details"
+msgstr "Debug-Details anzeigen"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:191
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:219
+msgid "Hide Product Details"
+msgstr "Produktdetails ausblenden"
+
+#: admin/partials/panomity-darkweb-press-admin-display.php:197
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:222
+msgid "Show Product Details"
+msgstr "Produktdetails anzeigen"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:156
+msgid "Make Your Site Stand Out"
+msgstr "Machen Sie Ihre Website herausragend"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:157
+msgid ""
+"With WordPress shortcodes, you can easily add dynamic content and "
+"functionality to your pages and posts, without needing to write any code. "
+"Plus, they work with any WordPress theme, so you don't need to worry about "
+"compatibility issues."
+msgstr ""
+"Mit WordPress-Shortcodes können Sie ganz einfach dynamischen Inhalt und "
+"Funktionalität zu Ihren Seiten und Beiträgen hinzufügen, ohne Code schreiben "
+"zu müssen. Außerdem funktionieren sie mit jedem WordPress-Theme, sodass Sie "
+"sich keine Gedanken über Kompatibilitätsprobleme machen müssen."
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:158
+#, php-format
+msgid ""
+"If you want to make some extra money from your site, join our affiliate "
+"program at %s. You'll earn a commission every time a customer requests a "
+"detailed dark web report. It's a win-win!"
+msgstr ""
+"Wenn Sie etwas extra Geld von Ihrer Website verdienen möchten, treten Sie "
+"unserem Affiliate-Programm bei %s bei. Sie verdienen eine Provision, jedes Mal "
+"wenn ein Kunde eine detaillierte Dark-Web-Berichtsanforderung stellt. Es ist "
+"ein Win-Win!"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:162
+#: includes/class-panomity-darkweb-press-custom-widgets.php:53
+msgid "Password"
+msgstr "Passwort"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:164
+msgid ""
+"The [panomity_darkweb_press type='password'] shortcode allows to check if "
+"a password has been leaked on the dark web."
+msgstr ""
+"Mit dem [panomity_darkweb_press type='password'] Shortcode können Sie "
+"überprüfen, ob ein Passwort im Dark Web durchgesickert ist."
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:167
+#: includes/class-panomity-darkweb-press-custom-widgets.php:54
+msgid "Domain"
+msgstr "Domain"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:169
+msgid ""
+"The [panomity_darkweb_press type='domain'] shortcode will check if "
+"accounts of a certain domain have been compromised and send a report to "
+"hostmaster@domain.com."
+msgstr ""
+"Der [panomity_darkweb_press type='domain'] Shortcode überprüft, ob Konten "
+"einer bestimmten Domain kompromittiert wurden, und sendet einen Bericht an "
+"hostmaster@domain.com."
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:174
+msgid ""
+"The [panomity_darkweb_press type='email'] shortcode will allow website "
+"visitors to check if their email address was found on the dark web."
+msgstr ""
+"Mit dem [panomity_darkweb_press type='email'] Shortcode können "
+"Webseitenbesucher überprüfen, ob ihre E-Mail-Adresse im Dark Web gefunden "
+"wurde."
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:191
+msgid "Panomity DarkWeb Check"
+msgstr "Panomity DarkWeb Check"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:191
+msgid "Service ID"
+msgstr "Service-ID"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:199
+msgid "Not set. Click"
+msgstr "Nicht festgelegt. Klicken Sie"
+
+#: admin/partials/panomity-darkweb-press-admin-shortcodes-display.php:199
+msgid "to add product."
+msgstr "um ein Produkt hinzuzufügen."
+
+#: includes/class-panomity-darkweb-press-custom-widgets.php:23
+msgid "Dark Web Search Statistics"
+msgstr "Dark Web-Suchstatistik"
+
+#: includes/class-panomity-darkweb-press-custom-widgets.php:51
+msgid "Date"
+msgstr "Datum"
+
+#: includes/class-panomity-darkweb-press.php:318
+msgid "There was an error checking the value."
+msgstr "Es ist ein Fehler beim Überprüfen des Werts aufgetreten."
+
+#: includes/class-panomity-darkweb-press.php:324
+msgid "This "
+msgstr "Dieses "
+
+#: includes/class-panomity-darkweb-press.php:324
+msgid " was found on the dark web!"
+msgstr " wurde im Dark Web gefunden!"
+
+#: includes/class-panomity-darkweb-press.php:325
+msgid "Great! This "
+msgstr "Großartig! Dieses "
+
+#: includes/class-panomity-darkweb-press.php:325
+msgid " was not found on the dark web!"
+msgstr " wurde nicht im Dark Web gefunden!"
+
+#: includes/class-panomity-darkweb-press.php:339
+msgid "Enter a password to check:"
+msgstr "Geben Sie ein Passwort ein, um zu überprüfen:"
+
+#: includes/class-panomity-darkweb-press.php:356
+msgid "Enter a domain to check:"
+msgstr "Geben Sie eine Domain ein, um zu überprüfen:"
+
+#: includes/class-panomity-darkweb-press.php:363
+msgid ""
+"We will send the report to the hostmaster email address of your domain. "
+"Please confirm that you have access to this email address by checking the "
+"checkbox."
+msgstr ""
+"Wir senden den Bericht an die Hostmaster-E-Mail-Adresse Ihrer Domain. Bitte "
+"bestätigen Sie, dass Sie Zugriff auf diese E-Mail-Adresse haben, indem Sie "
+"das Kontrollkästchen aktivieren."
+
+#: includes/class-panomity-darkweb-press.php:377
+msgid "Enter an email address to check:"
+msgstr "Geben Sie eine E-Mail-Adresse ein, um zu überprüfen:"
+
+#: includes/class-panomity-darkweb-press.php:384
+msgid ""
+"The result will be sent to the email. Please confirm that you are authorized "
+"and have have access to this email address by checking the checkbox."
+msgstr ""
+"Das Ergebnis wird an die E-Mail gesendet. Bitte bestätigen Sie, dass Sie "
+"berechtigt sind und Zugriff auf diese E-Mail-Adresse haben, indem Sie das "
+"Kontrollkästchen aktivieren."
+
+#: includes/class-panomity-darkweb-press.php:419
+msgid "There was an error checking the password."
+msgstr "Es ist ein Fehler beim Überprüfen des Passworts aufgetreten."
+
+#: includes/class-panomity-darkweb-press.php:423
+msgid "This password was found on the dark web!"
+msgstr "Dieses Passwort wurde im Dark Web gefunden!"
+
+#: includes/class-panomity-darkweb-press.php:427
+msgid "Great! This password was not found on the dark web!"
+msgstr "Großartig! Dieses Passwort wurde nicht im Dark Web gefunden!"
+
+#: includes/class-panomity-darkweb-press.php:438
+msgid "Invalid domain name."
+msgstr "Ungültiger Domain-Name."
+
+#: includes/class-panomity-darkweb-press.php:445
+msgid "There was an error checking the domain."
+msgstr "Es ist ein Fehler beim Überprüfen der Domain aufgetreten."
+
+#: includes/class-panomity-darkweb-press.php:449
+#: includes/class-panomity-darkweb-press.php:465
+msgid "The result of the dark web check has been sent."
+msgstr "Das Ergebnis der Dark Web-Überprüfung wurde gesendet."
+
+#: includes/class-panomity-darkweb-press.php:453
+#: includes/class-panomity-darkweb-press.php:469
+msgid "There was a problem sending the result of the dark web check."
+msgstr "Es gab ein Problem beim Senden des Ergebnisses der Dark-Web-Überprüfung."
+
+#: includes/class-panomity-darkweb-press.php:461
+msgid "There was an error checking the email address."
+msgstr "Es gab einen Fehler beim Überprüfen der E-Mail-Adresse."
+
+#: includes/class-panomity-darkweb-press.php:483
+#: includes/class-panomity-darkweb-press.php:503
+msgid "Checking..."
+msgstr "Überprüfen..."
