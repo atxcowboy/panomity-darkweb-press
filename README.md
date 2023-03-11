@@ -1,7 +1,6 @@
 ## Panomity DarkWeb Press
 
 - Contributors: Sascha Endlicher, M.A.
-- Donate link: https://www.panomity.com/
 - Tags: security, darkweb, dark web, cyber security, data security, password, domain, email, leaks
 - Requires at least: 6.1
 - Tested up to: 6.1
